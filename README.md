@@ -10,15 +10,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  Немного обо мне</h3>
+<h3 align="left">📌  a little about me</h3>
 
 ###
 
-<p align="left">Я из<br><br>- 🔭 Я не работаю<br>- 📚 В настоящее время изучаю все подряд<br>- ⚡ В свободное время я изучаю все подряд</p>
+<p align="left">I'm frontend developer from Russia<br><br>- 👨‍💻 now work in freelance<br>- 📚 I'm actually honing my TypeSript and JS skills<br>- ⚡  in my spare time I'm working on Pet-projects</p>
 
 ###
 
-<h3 align="left">🛠 Языки и инструменты</h3>
+<h3 align="left">🛠 Language n tools</h3>
 
 ###
 
