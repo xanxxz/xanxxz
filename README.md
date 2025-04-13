@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://pixelbox.ru/wp-content/uploads/2021/11/girls-gif-discord-pixelbox.ru-5.gif"  />
+  <img height="150" src="https://grizly.club/uploads/posts/2023-08/1691402652_grizly-club-p-kartinki-ded-insaid-bez-fona-46.png"  />
 </div>
 
 ###
