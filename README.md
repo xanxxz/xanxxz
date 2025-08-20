@@ -1,6 +1,6 @@
 <div align="center">
-  <p height="200">SSSVAM2 CREW —</p>
-  <p height="200">RED BLOCK REPRESENT</p>
+  <p height="200" line-height="0" color="#B22222FF">SSSVAM2 CREW —</p>
+  <p height="200" line-height="0" color="#B22222FF">RED BLOCK REPRESENT</p>
 </div>
 
 <div align="center">
