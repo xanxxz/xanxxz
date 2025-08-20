@@ -3,15 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3800&pause=1240&color=A40000&width=639&lines=Hi+there%2C+i'm+Daniil+Aleksandrovich"  />
+  <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3800&pause=1240&color=A40000&width=639&lines=Hi+there%2C+i'm+sss+vam2"  />
 </div>
-
-###
-
-<h3 align="left">📌  a little about me</h3>
-
-###
-
-<p align="left">...</p>
 
 ###
