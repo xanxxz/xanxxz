@@ -1,12 +1,13 @@
 <div align="center">
-  <p style="font-size: 40px; line-height: 1; color: #B22222; margin: 0;">
-    SSSVAM2 CREW —
-  </p>
-  <p style="font-size: 40px; line-height: 1; color: #B22222; margin: 0;">
-    RED BLOCK REPRESENT
-  </p>
+  <img 
+    height="60" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&letterSpacing=1&duration=1&pause=1000&color=B22222&width=600&height=60&lines=SSSVAM2+CREW+%E2%80%94+"  
+  />
+    <img 
+    height="60" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&letterSpacing=1&duration=1&pause=1000&color=B22222&width=600&height=60&lines=RED+BLOCK+REPRESENT  
+  />
 </div>
-
 <div align="center">
   <img 
     height="150" 
