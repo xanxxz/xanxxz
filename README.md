@@ -5,8 +5,8 @@
   />
     <img 
     height="60" 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&letterSpacing=1&duration=1&pause=1000&color=B22222&width=600&height=60&lines=RED+BLOCK+REPRESENT  
-  />
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&letterSpacing=1&duration=1&pause=1000&color=B22222&width=600&height=60&lines=RED+BLOCK+REPRESENT"
+    />
 </div>
 <div align="center">
   <img 
