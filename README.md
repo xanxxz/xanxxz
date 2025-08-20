@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="200" src="https://grizly.club/uploads/posts/2023-08/1691402652_grizly-club-p-kartinki-ded-insaid-bez-fona-46.png"  />
+  <p height="200">SSSVAM2 CREW —</p>
+  <p height="200">RED BLOCK REPRESENT</p>
 </div>
 
 <div align="center">
