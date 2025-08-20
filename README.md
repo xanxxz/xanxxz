@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm frontend developer from Russia<br><br>- 👨‍💻 now work in freelance<br>- 📚 I'm actually honing my TypeSript and JS skills<br>- ⚡  in my spare time I'm working on Pet-projects</p>
+<p align="left">...</p>
 
 ###
 
