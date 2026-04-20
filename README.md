@@ -1,12 +1,110 @@
-<div align="center">
-  <img
-    height="60"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&letterSpacing=1&duration=1&pause=1000&color=B22222&width=600&height=60&lines=svanxx"
-  />
-</div>
-<div align="center">
-  <img
-    height="150"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&letterSpacing=1&pause=1000&color=B22222&width=600&lines=%59%6F%2C%20%69%74%E2%80%99%73%20%79%61%20%62%6F%79%20%73%73%73%76%61%6D%32%20%70%75%6C%6C%69%6E%E2%80%99%20%75%70%20%E2%80%94%20%73%75%70%20%61%6E%79%6F%6E%65%3F"
-  />
-</div>
+## Обо мне
+
+Меня зовут Даниил, я Frontend / Fullstack разработчик с основным стеком React + TypeScript + Node.js.
+
+В разработку я пришёл через интерес к созданию удобных, понятных и визуально качественных интерфейсов. Мне нравится превращать идеи и бизнес-задачи в рабочие продукты, которые действительно решают задачи пользователей.
+
+Особенно интересны проекты, где нужно не просто сверстать интерфейс, а продумать архитектуру, взаимодействие frontend и backend, логику работы системы и удобство дальнейшего масштабирования.
+
+Работаю как с клиентской частью (React, TypeScript, UI, адаптивная вёрстка), так и с серверной логикой (Node.js, Express, PostgreSQL, REST API, авторизация, работа с базами данных).
+
+Интересуюсь развитием в сторону сильного Fullstack-направления, сложных web-платформ, CRM-систем, маркетплейсов и внутренних бизнес-сервисов.
+
+---
+
+## Технологии и инструменты
+
+### Frontend
+
+- HTML5
+- CSS3
+- SCSS / Sass
+- JavaScript (ES6+)
+- TypeScript
+- React
+- React Router
+- Redux Toolkit
+- Context API
+- Axios
+- REST API
+- Adaptive / Responsive Layout
+- CSS Modules
+- Tailwind CSS
+- Vite
+- Webpack (базово)
+
+### Backend
+
+- Node.js
+- Express.js
+- JWT Authentication
+- Middleware
+- REST API Architecture
+- Работа с файлами
+- Загрузка изображений
+- CRUD-системы
+- Role-based access logic
+
+### Базы данных
+
+- PostgreSQL
+- SQLite
+- MongoDB
+- Базовое понимание MySQL
+
+### Инструменты
+
+- Git
+- GitHub
+- Figma
+- Postman
+- VS Code
+- npm / yarn
+- Linux / terminal (базово)
+
+---
+
+## Что важно для меня в работе
+
+- Чистый и поддерживаемый код
+- Понятная архитектура проекта
+- Реальные задачи, а не "код ради кода"
+- Возможность профессионального роста
+- Работа в сильной команде
+- Ответственность за результат, а не только за отдельные задачи
+
+---
+
+## Статус занятости
+
+Открыт к предложениям по работе:
+
+- Frontend Developer
+- React Developer
+- Junior / Middle Fullstack Developer
+- Product / Web Development Projects
+
+Формат работы:
+
+- Удалённо
+- Гибрид
+- Проектная работа
+- Full-time
+
+---
+
+## Контакты
+
+Telegram: https://t.me/sssvam2
+
+Email: danieldeinega@yandex.ru
+
+HH: https://hh.ru/resume/330d9c94ff105eb2d30039ed1f4c7549487353
+
+---
+
+## Дополнительно
+
+Интересуют проекты с реальной бизнес-логикой: маркетплейсы, CRM, внутренние сервисы компаний, SaaS-платформы, форумы, каталоги, административные панели и сложные пользовательские кабинеты.
+
+Люблю проекты, где важны не только технологии, но и мышление разработчика.
