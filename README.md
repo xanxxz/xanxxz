@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### React • TypeScript • Node.js • PostgreSQL
-
 Открыт к предложениям: Frontend / Fullstack Developer
 
 Telegram: @sssvam2 • Email: [danieldeinega@yandex.ru](mailto:danieldeinega@yandex.ru)
@@ -57,6 +55,3 @@ PostgreSQL • MongoDB • SQLite • MySQL (basic)
 ### Tools
 
 Git • GitHub • Figma • Postman • VS Code • npm / yarn
-
----
-
