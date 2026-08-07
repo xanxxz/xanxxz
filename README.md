@@ -1,4 +1,4 @@
-# Даниил — Frontend / Fullstack Developer
+# Даниил — Fullstack Developer
 
 <div align="center">
 
